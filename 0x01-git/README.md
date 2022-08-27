@@ -1,2 +1,1 @@
-git pull
-
+THE GOAL IS TO BE BETTER
